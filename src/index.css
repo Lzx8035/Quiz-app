@@ -257,3 +257,21 @@ progress {
   font-size: inherit;
   padding: 0.8rem;
 }
+
+/* Practise */
+.Practise {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  font-size: 20px;
+}
+
+.Practise p,
+.Practise h1 {
+  text-align: center;
+}
+
+.Practise button {
+  padding: 5px;
+  border-radius: 6px;
+}

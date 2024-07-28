@@ -11,6 +11,7 @@ import FinishScreen from "./FinishScreen";
 import Footer from "./Footer";
 import Timer from "./Timer";
 
+// Add feature:
 // different type of questions
 // go back and forth
 
